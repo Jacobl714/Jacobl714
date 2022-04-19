@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jacobl714
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Computer and Network Security
-- 💞️ I’m looking to collaborate on anything exciting
 - 📫 How to reach me: jacob.lenes@uconn.edu
 
 <!---
